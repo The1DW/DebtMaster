@@ -1,0 +1,7 @@
+name: Debtmaster
+version: ${project.version}
+main: tk.daltonjwood.debtmaster.Debtmaster
+api-version: 1.13
+authors: [IronBanes]
+description: This plugin adds in a interest based loan system.
+website: https://daltonjwood.tk//
